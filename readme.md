@@ -10,28 +10,28 @@ g. Se debe validar que la contraseña ingresada tenga mínimo 8 caracteres, adem
 
 #a. Se debe validar qué, en el campo de la cedula, se ingrese sólo números y que la misma sea correcta, en base, al último dígito verificador.
 
-![](imgs/1.jpg)
+![](imgs/1.png)
 
 #b. Se debe validar qué, en el campo del nombres, ingrese mínimo un nombre y que permita ingresar sólo letras.
 
-![](imgs/2.jpg)
+![](imgs/2.png)
 
 #3.c. Se debe validar qué, en el campo del apellidos, ingrese mínimo un apellido y que permita ingresar sólo letras.
 
-![](imgs/3.jpg)
+![](imgs/3.png)
 
 
-![](imgs/4.jpg)
+![](imgs/4.png)
 
 #5. Se debe validar qué, en el campo del teléfono, permita ingresar sólo números y un máximo de 10.
 
-![](imgs/4.jpg)
+![](imgs/4.png)
 
 #6.Se debe validar que la fecha de nacimiento ingrese en el formato dd/mm/yyyy..
 
-![](imgs/3.jpg)
+![](imgs/3.png)
 
-![](imgs/4.jpg)
+![](imgs/4.png)
 
 #8Se debe validar que la contraseña ingresada tenga mínimo 8 caracteres, además, debe incluir al menos: una letra mayúscula, una letra minúscula y un carácter especial (@, _, $).
 
