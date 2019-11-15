@@ -47,4 +47,3 @@ se debe investigar  preguntar a su tutor referente a algun tema desconocido por 
 
 firma
 
->>>>>>> 9a6653fec27b985718fb2f774aa0d91bd8fd79bc
